@@ -1,0 +1,11 @@
+# Packaging script
+tela-soplos-icons.sh
+
+# Build output and temporary copies made by the packaging script
+*.deb
+tela-soplos-icons/usr/share/icons/
+tela-soplos-icons/usr/share/doc/tela-soplos-icons/README.md.gz
+tela-soplos-icons/usr/share/doc/tela-soplos-icons/changelog.gz
+
+# Upstream source archive the themes were derived from
+Tela-ubuntu.tar.xz
