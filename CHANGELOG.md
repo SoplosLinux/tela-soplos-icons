@@ -2,6 +2,12 @@
 
 All notable changes to Tela Soplos Icons are documented in this file.
 
+## [1.0.0-4] - 2026-11-14
+
+### Fixed
+
+- The Other button of the login screen (Plasma Login Manager) fell back to a white outline of another theme, because `system-user-prompt` and `system-user-list` did not exist. They now use the round `system-switch-user` of the other buttons (hibernate, sleep, restart, shut down).
+
 ## [1.0.0-3] - 2026-11-14
 
 ### Fixed
