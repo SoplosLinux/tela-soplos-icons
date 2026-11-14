@@ -2,6 +2,12 @@
 
 All notable changes to Tela Soplos Icons are documented in this file.
 
+## [1.0.0-1] - 2026-11-14
+
+### Fixed
+
+- The trash in the sidebar of Dolphin and other file managers was a gray outline among orange folders. At 22 and 24 px the theme had a gray `user-trash` in `actions` besides the colored one in `places`, and `actions` is looked up first. The `user-trash` and `user-trash-full` icons of `actions` at 22 and 24 px are now links to the colored ones, as the 16 px special folders. The fault came from Tela ubuntu.
+
 ## [1.0.0] - 2026-11-12
 
 ### Added

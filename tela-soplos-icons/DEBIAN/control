@@ -1,5 +1,5 @@
 Package: tela-soplos-icons
-Version: 1.0.0
+Version: 1.0.0-1
 Section: x11
 Priority: optional
 Architecture: all
@@ -14,4 +14,4 @@ Description: Tela Soplos icon themes (default, dark and light) for Soplos Linux.
  .
  Based on Tela (https://github.com/vinceliuice/Tela-icon-theme). Soplos
  modifications by Sergi Perich and Simnandez.
- Build date: 2026-11-12
+ Build date: 2026-11-14
