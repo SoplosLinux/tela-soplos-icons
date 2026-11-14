@@ -2,6 +2,18 @@
 
 All notable changes to Tela Soplos Icons are documented in this file.
 
+## [1.0.0-3] - 2026-11-14
+
+### Fixed
+
+- The Thunar icon (`thunar`, `Thunar`, `org.xfce.thunar`, `thunar-filemanager`) kept the pale orange of Tela (`#e39b57`). It now has the Soplos folder design: the front with the gradient from `#ff7d2e` to `#fec431` and the back in `#c73c18`.
+- The Desktop icon (`user-desktop`, `desktop`) had a white layer at 25% over the Soplos gradient, so it looked pale beside the other folders. The layer is removed.
+- Place icons that sidebars and menus show at 16, 22 and 24 px (open folder, recent, bookmarks, favorites, saved searches, network, shared folders, identity) had a gray copy in `actions` with the same name, which can be picked instead of the colored one. The gray copies are now links to the colored ones. The toolbar buttons (home, back, reload...) stay monochrome.
+- Device icons at 16, 22, 24 and 32 px (drives, USB, memory cards, optical media, keyboard, mouse, cameras, headphones, speakers, printers, scanner, phones, tablet, laptop, TV, modem, network, UPS...) were the gray glyphs of Tela. They are now links to their colored versions. Encrypted and root drives use the colored drive, the iPod the colored media player and the radio the colored radio.
+- The brand folders at 16 px (Apple, CD, cloud, GitHub, GitLab, GNOME, Google Drive, Linux, mail cloud, MEGA, MEOcloud, pCloud, Steam, torrent, VirtualBox, Wi-Fi, Wine, Yandex Disk) were gray glyphs. They now use the Soplos folder.
+- The mail Sent folder (`mail-sent`) used the gray send button. It now uses the colored mail folder.
+- The shut down, restart, suspend, hibernate, log out, switch user and lock buttons at 32 px, shown large in the Xfce log out dialog, were gray. They now use the colored ones, as do `printer`, `applications-other`, `applications-all` and `drive-removable-media-usb` at 32 px.
+
 ## [1.0.0-2] - 2026-11-14
 
 ### Fixed

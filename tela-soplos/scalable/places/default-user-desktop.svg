@@ -11,7 +11,6 @@
       }</style>
  <linearGradient id="soplosFolder" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#ff7d2e"/><stop offset="1" stop-color="#fec431"/></linearGradient></defs>
  <rect class="ColorScheme-Highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="url(#soplosFolder)"/>
- <rect id="highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="#ffffff" opacity=".25"/>
  <path class="ColorScheme-Background" d="m15.003 50.998c-1.1077 0-1.9999 0.89231-1.9999 1.9999v2.0019h37.999v-2.0019c0-1.1077-0.89231-1.9999-1.9999-1.9999z" fill="#ffffff" opacity=".1"/>
  <path class="ColorScheme-Highlight" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="url(#soplosFolder)"/>
  <path class="ColorScheme-Background" d="m18.002 47c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm7.9961 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1zm8 0c-0.554 0-1 0.446-1 1v4c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1v-4c0-0.554-0.446-1-1-1z" fill="#ffffff" opacity=".2"/>
