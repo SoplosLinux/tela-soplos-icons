@@ -2,6 +2,12 @@
 
 All notable changes to Tela Soplos Icons are documented in this file.
 
+## [1.0.0-2] - 2026-11-14
+
+### Fixed
+
+- The Computer entry in the sidebar of Thunar was a gray outline. At 24 px the theme had a gray `computer` in `places` besides the colored one of Kora Soplos in `devices`. The `computer` of `places` at 24 px is now a link to the colored one. The fault came from Tela ubuntu.
+
 ## [1.0.0-1] - 2026-11-14
 
 ### Fixed
