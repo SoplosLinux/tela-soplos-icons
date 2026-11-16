@@ -2,6 +2,18 @@
 
 All notable changes to Tela Soplos Icons are documented in this file.
 
+## [1.0.0-6] - 2026-11-16
+
+### Fixed
+
+- The README still showed the old `Inherits` of the themes, with Adwaita and Breeze, and said that `apt` installs dependencies. It now shows what each theme inherits (nothing for Tela Soplos, `tela-soplos` for the dark and light themes) and that the package depends on no other package. The version badge and the build date of the package are updated.
+
+## [1.0.0-5] - 2026-11-16
+
+### Changed
+
+- The themes no longer depend on the icons of another desktop. `Inherits` was `hicolor,Adwaita,breeze` (and `breeze-dark` in the dark theme), a line that came from Tela ubuntu. Now Tela Soplos inherits nothing, and the light and dark themes inherit only `tela-soplos`, the base theme of this same package. The package depends on and recommends no other package. A theme saved with Soplos Theme Manager no longer carries the Breeze icons inside it.
+
 ## [1.0.0-4] - 2026-11-14
 
 ### Fixed

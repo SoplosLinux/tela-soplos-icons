@@ -1,6 +1,6 @@
 # Tela Soplos Icons
 
-![Version](https://img.shields.io/badge/version-1.0.0--4-blue)
+![Version](https://img.shields.io/badge/version-1.0.0--6-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Format](https://img.shields.io/badge/icons-SVG-orange)
@@ -12,11 +12,11 @@ Three variants are provided:
 
 | Theme | Folder | Inherits |
 |-------|--------|----------|
-| Tela Soplos | `tela-soplos` | `hicolor,Adwaita,breeze` |
-| Tela Soplos Dark | `tela-soplos-dark` | `tela-soplos,hicolor,Adwaita,breeze-dark` |
-| Tela Soplos Light | `tela-soplos-light` | `tela-soplos,hicolor,Adwaita,breeze` |
+| Tela Soplos | `tela-soplos` | nothing |
+| Tela Soplos Dark | `tela-soplos-dark` | `tela-soplos` |
+| Tela Soplos Light | `tela-soplos-light` | `tela-soplos` |
 
-`tela-soplos` holds the shared icons. The dark and light variants only add their own symbolic, action and panel icons and link to the rest, so all three folders must be installed together.
+`tela-soplos` holds the shared icons. The dark and light variants only add their own symbolic, action and panel icons and link to the rest, so all three folders must be installed together. The themes do not depend on the icons of any other desktop.
 
 ## Preview
 
@@ -45,7 +45,7 @@ The previews show a sample of the apps, folders, devices and file types. They ar
 The `.deb` package of every version is published in the [Releases](https://github.com/SoplosLinux/tela-soplos-icons/releases) of this repository.
 
 1. Download the latest `tela-soplos-icons_<version>_all.deb` from the Releases page.
-2. Install it with `apt`, which also installs the dependencies:
+2. Install it with `apt` (the package depends on no other package):
 
        sudo apt install ./tela-soplos-icons_<version>_all.deb
 

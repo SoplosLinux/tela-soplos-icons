@@ -1,7 +1,6 @@
 [Icon Theme]
 Name=Tela Soplos
 Comment=Tela Soplos icon theme for GNU/Linux
-Inherits=hicolor,Adwaita,breeze
 Example=folder
 
 # KDE/Plasma Stuff

@@ -1,10 +1,8 @@
 Package: tela-soplos-icons
-Version: 1.0.0-4
+Version: 1.0.0-6
 Section: x11
 Priority: optional
 Architecture: all
-Depends: hicolor-icon-theme
-Recommends: adwaita-icon-theme, breeze-icon-theme
 Maintainer: Sergi Perich <info@soploslinux.com>
 Homepage: https://github.com/SoplosLinux/tela-soplos-icons
 Description: Tela Soplos icon themes (default, dark and light) for Soplos Linux.
@@ -14,4 +12,4 @@ Description: Tela Soplos icon themes (default, dark and light) for Soplos Linux.
  .
  Based on Tela (https://github.com/vinceliuice/Tela-icon-theme). Soplos
  modifications by Sergi Perich and Simnandez.
- Build date: 2026-11-14
+ Build date: 2026-11-16

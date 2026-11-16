@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Tela Soplos Dark
 Comment=Tela Soplos Dark icon theme for GNU/Linux
-Inherits=tela-soplos,hicolor,Adwaita,breeze-dark
+Inherits=tela-soplos
 Example=folder
 
 # KDE/Plasma Stuff
